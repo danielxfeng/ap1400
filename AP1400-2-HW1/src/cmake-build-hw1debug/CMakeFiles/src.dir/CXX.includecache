@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.qPw0vHvhUv/hw1.cpp
+random
+/tmp/tmp.qPw0vHvhUv/random
+iterator
+/tmp/tmp.qPw0vHvhUv/iterator
+cmath
+-
+hw1.h
+/tmp/tmp.qPw0vHvhUv/hw1.h
+
+/tmp/tmp.qPw0vHvhUv/hw1.h
+iostream
+-
+vector
+-
+
+/tmp/tmp.qPw0vHvhUv/main.cpp
+iostream
+-
+gtest/gtest.h
+-
+
+/tmp/tmp.qPw0vHvhUv/unit_test.cpp
+gtest/gtest.h
+/tmp/tmp.qPw0vHvhUv/gtest/gtest.h
+gmock/gmock.h
+/tmp/tmp.qPw0vHvhUv/gmock/gmock.h
+hw1.h
+/tmp/tmp.qPw0vHvhUv/hw1.h
+

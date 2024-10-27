@@ -1,0 +1,14 @@
+# ninja log v5
+3	639	1701424216432661438	CMakeFiles/main.dir/src/crypto.cpp.o	d6a22c2fee9b56c9
+7	808	1701513328045271206	CMakeFiles/main.dir/src/Transaction.cpp.o	6fe40fce48fd95a2
+7	809	1701513328047579275	CMakeFiles/main.dir/src/client.cpp.o	dee160ae2ed8d3d6
+7	865	1701513328102109619	CMakeFiles/main.dir/src/main.cpp.o	aa9689ee781ec98b
+7	948	1701513328187857692	CMakeFiles/main.dir/src/unit_test.cpp.o	54ef6ba8c109a4eb
+7	988	1701513328227526340	CMakeFiles/main.dir/src/server.cpp.o	2358a379760e28c
+5	1017	1701513448770905940	CMakeFiles/main.dir/src/server.cpp.o	2358a379760e28c
+1017	1118	1701513448872810025	main	5bb2de73562c74c7
+5	1010	1701520019973082439	CMakeFiles/main.dir/src/Transaction.cpp.o	6fe40fce48fd95a2
+6	1118	1701520020083393143	CMakeFiles/main.dir/src/main.cpp.o	aa9689ee781ec98b
+5	1318	1701520020285963553	CMakeFiles/main.dir/src/unit_test.cpp.o	54ef6ba8c109a4eb
+6	1371	1701520020341929424	CMakeFiles/main.dir/src/server.cpp.o	2358a379760e28c
+4	897	1701520077467415959	CMakeFiles/main.dir/src/client.cpp.o	dee160ae2ed8d3d6
